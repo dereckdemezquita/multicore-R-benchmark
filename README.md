@@ -70,4 +70,4 @@ ln -sf /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framewo
 
 Here you can find another larger script for more rigorous benchmarking: http://r.research.att.com/benchmarks/R-benchmark-25.R
 
-This was run on 2011 Macbook Pro (2.7 GHz Core i7): 43 sec. (Rblas) vs. 9 sec. (vecLib)
+This was run on 2011 Macbook Pro (2.7 GHz Core i7): 43 sec. (Rblas) vs. 9 sec. (vecLib).
